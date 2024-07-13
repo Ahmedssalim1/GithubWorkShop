@@ -1,7 +1,7 @@
 
 def runApp():
-    pass
-
+    while True:
+        pass
 
 
 
