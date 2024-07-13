@@ -1,6 +1,7 @@
 
+import Function3 as f3
 def runApp():
-    pass
+    f3.calAge(2000)
 
 
 
