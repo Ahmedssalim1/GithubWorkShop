@@ -1,6 +1,9 @@
+import Function1 as f1
+
 
 def runApp():
-    pass
+    while True:
+        f1.startProgarm()
 
 
 
