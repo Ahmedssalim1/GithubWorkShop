@@ -2,8 +2,7 @@ import Function1 as f1
 
 
 def runApp():
-    while True:
-        f1.startProgarm()
+   f1.startProgarm()
 
 
 
