@@ -1,8 +1,7 @@
 
+import Function4 as f4
 def runApp():
-    while True:
-        pass
-
+    f4.showShapesAreaFormula("circle")
 
 
 
